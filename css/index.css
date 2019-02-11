@@ -1,0 +1,23 @@
+#line li{
+	display:inline;
+}
+#line{
+	position:relative;
+}
+img{
+	height:400px;
+	width:auto;
+}
+div{
+	width:50%;
+	height:auto;
+}
+#menu li{
+	display:inline;
+}
+#menu{
+	text-align:right;
+}
+a{
+	text-decoration:none;
+}
